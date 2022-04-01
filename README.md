@@ -19,7 +19,8 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+Get Request
+![GET-Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot_2022-04-01_16-48-53.png)
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
