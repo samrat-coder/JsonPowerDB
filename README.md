@@ -19,9 +19,27 @@
 
 ### Screenshots:
 
-Get Request
+GET Request
 ![GET-Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot_2022-04-01_16-48-53.png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+PUT Request
+![PUT-Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot1_2022-01-29_11-13-42.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+PUT-ALL Request
+![PUT-ALL Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot2_2022-04-01_16-52-50.png)
+
+REMOVE Request
+![REMOVE Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot3_2022-04-01_16-53-09.png)
+
+UPDATE Request
+![UPDATE Request](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot4_2022-04-01_16-53-30.png)
+
+Friend-DB
+![Friend-DB](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot5_2022-04-01_16-54-06.png)
+
+Sample-DB
+![Sample-DB](https://github.com/samrat-coder/JsonPowerDB/blob/master/images/Screenshot6_2022-04-01_16-54-40.png)
+
+
+
+
